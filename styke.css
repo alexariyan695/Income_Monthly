@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-1{
+    display:flex;
+    gap: 18rem;
+    margin: 0px auto;
+    width: 98%;
+
+    margin-top: 50px;
+
+  
+   
+    
+
+}
+
+.main-container{
+    width: 500px;
+    height: auto;
+    
+    align-items: center;
+}
+
+
+
+
+inputf{
+    width: 50%;
+    height: 30px;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    
+    
+}
+
+.input-group-1{
+    padding-top: 10px;
+}
+
+
+.disply {
+    
+margin-left: 30%;
+}
+.savei{
+    align-items: center;
+    display:flex;
+    gap: 0.5rem;
+    justify-content: space-between;
+}
+.savei input{
+    width: 50%;
+    height: 30px;
+
+}
+
+.savei button{
+    width: 50%;
+    height: 40px;
+    background-color:#0D6EFD;
+    border-radius: 5px;
+    color: white;
+}
+
+
+.last span{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+
+.last p{
+    margin-left: 30%;
+}
+
+.main {
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 30px;
+}
+
+.main input{
+    width: 100%;
+    height: 28px;
+    
+}
